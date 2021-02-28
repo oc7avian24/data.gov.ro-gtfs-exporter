@@ -161,12 +161,17 @@ class GovRoGTFSConverter
             stop_id = station_row.attr('CodStaOrigine')
             stop_name = station_row.attr('DenStaOrigine')
             stop_departure_seconds = station_row.attr('OraP').to_i
-            if is_last_stop
-                stop_departure_seconds = -1
-            end
 
             stop_next_id = station_row.attr('CodStaDest')
             stop_next_arrival_seconds = station_row.attr('OraS').to_i
+
+            if is_last_stop
+                stop_departure_seconds = stop_next_arrival_seconds
+            end
+
+            if is_first_stop
+                stop_arrival_seconds = stop_departure_seconds
+            end
 
             if !is_last_stop && (stop_id == stop_next_id)
                 print "ERROR / IGNORE: found id for consecutive stops: #{stop_name}(#{stop_id}) =>  -- Trip_id: #{trip_id}\n"
@@ -210,7 +215,7 @@ class GovRoGTFSConverter
 
         # Actually the ElementTrasa nodes contain all the stops in between no matter if the train stops or not there
         # => we remove all the stops in which the train stops for ... 0 seconds, so not at all
-        trip_stop_rows = trip_stop_rows.select{ |stop_data| stop_data['arrival_time'] != stop_data['departure_time'] }
+        # trip_stop_rows = trip_stop_rows.select{ |stop_data| stop_data['arrival_time'] != stop_data['departure_time'] }
 
         return trip_stop_rows
     end
@@ -444,6 +449,14 @@ class GovRoGTFSConverter
             trip_data['stops_data'].each_with_index do |stop_data, k|
                 stop_data['stop_sequence'] = k + 1
                 stop_data['trip_id'] = trip_data['trip_id']
+
+                # if stop_data['arrival_time'] == -1
+                #     stop_data['arrival_time'] = stop_data['departure_time']
+                # end
+
+                # if stop_data['departure_time'] == -1
+                #     stop_data['departure_time'] = stop_data['arrival_time']
+                # end
 
                 stop_times_rows.push(stop_data)
             end
