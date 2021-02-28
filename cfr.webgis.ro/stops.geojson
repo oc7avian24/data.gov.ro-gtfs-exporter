@@ -29722,6 +29722,636 @@
           46.795223
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "70005",
+        "name": "R. Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.074966,
+          44.567755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "11889",
+        "name": "Semnal Timişoara Est"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.256696,
+          45.77205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "12027",
+        "name": "Semnal XC Jimbolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.724189,
+          45.799474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "12601",
+        "name": "Semnal Goleşti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.959033,
+          44.837229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "13631",
+        "name": "Semnal Vâlcele"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.714164,
+          45.004375          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "14790",
+        "name": "Semnal Gr.Th. Caracal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.390121,
+          44.06316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "16011",
+        "name": "Semnal Voiteni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.223254,
+          45.471942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "16190",
+        "name": "Semnal Reşiţa Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.861873,
+          45.328989          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "16853",
+        "name": "Semnal YA Oraviţa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.685436,
+          45.041147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "17065",
+        "name": "Semnal YC Tim Vest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.164637,
+          45.722152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "20024",
+        "name": "Semnal Bartolomeu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.552322,
+          45.655607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "25294",
+        "name": "Semnal Ronaţ Triaj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.134937,
+          45.806924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "25464",
+        "name": "Semnal Arad Vest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.268421,
+          46.200403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "25622",
+        "name": "Semnal Aradu Nou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.319132,
+          46.137162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "25854",
+        "name": "Semnal Sânandrei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.150012,
+          45.862063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "31176",
+        "name": "Semnal Vânători"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.943962,
+          46.242654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "31542",
+        "name": "Semnal Blaj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.910434,
+          46.177540
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "32132",
+        "name": "Gârbău PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.353924,
+          46.834058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "32869",
+        "name": "Semnal XT PL. Vest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.986506,
+          44.928572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "33239",
+        "name": "Semnal Buda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.920384,
+          44.966089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "35524",
+        "name": "Semnal Sântana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.516228,
+          46.334786          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "40141",
+        "name": "Semnal Sfântu Gheorghe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.810134,
+          45.866095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "41004",
+        "name": "Semnal Magheruş Şieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.342893,
+          47.104432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "42826",
+        "name": "Semnal Luduş"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.091921,
+          46.468910
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "42979",
+        "name": "Semnal Bistriţa Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.510879,
+          47.152635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "44331",
+        "name": "Semnal Sărmăşag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.845894,
+          47.333933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "50043",
+        "name": "Semnal PL.Sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.037346,
+          44.927307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "51205",
+        "name": "Semnal Roman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.913587,
+          46.947387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "51944",
+        "name": "Semnal Ploieşti N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.014200,
+          44.960289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "52247",
+        "name": "Semnal Buzău"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.785258,
+          45.134912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "53825",
+        "name": "Semnal Piatra Neamţ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.336948,
+          46.935543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "55213",
+        "name": "Semnal Dărmăneşti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.129054,
+          47.717855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "55756",
+        "name": "Semnal Dorneşti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.991350,
+          47.865749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "56102",
+        "name": "Semnal Paşcani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.717030,
+          47.265381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "62022",
+        "name": "Semnal Bârlad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.662637,
+          46.210980
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "62670",
+        "name": "Semnal Buhăieşti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.557492,
+          46.785336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "62967",
+        "name": "Semnal Podu Iloaiei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.289770,
+          47.211510
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "63155",
+        "name": "Semnal Leţcani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.384970,
+          47.195688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "63507",
+        "name": "Semnal Dorohoi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.400537,
+          47.957719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "70263",
+        "name": "Semnal Urziceni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6355953,
+          44.721674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "70500",
+        "name": "Semnal XU Făurei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.252502,
+          45.078991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "71657",
+        "name": "Semnal Armăşeşti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.543755,
+          44.734926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "81676",
+        "name": "Semnal Y Buc. Sud. Căl."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.229371,
+          44.423535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "81688",
+        "name": "Semnal X Buc. Sud. Căl."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.216942,
+          44.426255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "82838",
+        "name": "Semnal Medgidia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.259120,
+          44.253164
+        ]
+      }
     }
   ]
 }
